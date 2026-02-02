@@ -1,6 +1,9 @@
-# Release v0.2.3
+# Release v0.2.4
 
-Date: 2026-01-21
-Changes since 0.2.2
+Date: 2026-02-02
+Changes since 0.2.3
 
-- get_affine, resolve-Convert failed: get_affine() got an unexpected keyword argument 'space' (e035e87)
+- chore: prepare release v0.2.4 (7b75344)
+- Improve publish workflow trigger (3712398)
+- Add tox config and nifti-mrs header test (57c4357)
+- fix: correct ppm axis calculation and resolve UI scan misread (4edd875)
